@@ -3,7 +3,7 @@
 **Software Engineer / AI-ML Engineer based in Cebu, Philippines** with 3+ years of experience across AI/ML, full-stack SaaS and cloud deployment.
 BS Computer Engineering, *Magna Cum Laude* — University of San Carlos (DOST Merit Scholar).
 
-I build practical AI applications — **LLM + RAG systems, multimodal assistants, local-first tooling** — and ship them end to end: backend, frontend, containers, CI/CD and cloud.
+I build practical AI applications including **LLM + RAG systems, multimodal assistants, AI-powered automations, local-first tooling** and ship them end to end: backend, frontend, containers, CI/CD, and cloud.
 
 > 📫 Open to opportunities — [mendoza.migz@gmail.com](mailto:mendoza.migz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/miguel-anthony-mendoza-326b64195/)
 
