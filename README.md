@@ -63,8 +63,8 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AI Trend Intelligence Platform**](https://github.com/jammiguelyfish/ai-trend-intelligence-platform) | Scrapes Reddit, Hacker News, GitHub Trending and arXiv; embeds locally, detects trending topics and serves semantic search + LLM summaries via a React dashboard. No paid APIs. | FastAPI, React, ChromaDB, Ollama, Docker |
-| [**PDF Q&A Bot**](https://github.com/jammiguelyfish/pdf-qna-bot) | Fully local RAG CLI that answers only from your PDFs, with source and page attribution. | LangChain, Chroma, Mistral (Ollama) |
+| [**AI Trend Intelligence Platform**](https://github.com/jammiguelyfish/ai-trend-intelligence-platform) | Scrapes Hacker News, arXiv, GitHub Trending and Reddit; embeds locally, finds trending terms and phrases and clusters topics with k-means. React dashboard, semantic search, CI. **[Live demo](https://jammiguelyfish.github.io/ai-trend-intelligence-platform/)**. No paid APIs. | FastAPI, React, ChromaDB, Ollama, Docker |
+| [**PDF Q&A Bot**](https://github.com/jammiguelyfish/pdf-qna-bot) | Fully local RAG CLI that answers only from your PDFs, with source and page attribution. Hybrid BM25 + vector retrieval, with an **evaluation harness and published results**. | LangChain, Chroma, Mistral (Ollama) |
 | [**Repo Analyzer**](https://github.com/jammiguelyfish/repo-analyzer) | Paste any public GitHub URL and get an AI-generated developer onboarding guide. | Streamlit, Gemini API, GitHub REST API |
 | [**Inventory System**](https://github.com/jammiguelyfish/inventory-system) | Full-stack inventory manager with stock tracking, low-stock alerts and supplier management; Dockerized. | Spring Boot, PostgreSQL, JS |
 | [**Smart Helmet**](https://github.com/jammiguelyfish/smarthelmet) | Undergraduate thesis: drowsy-driving detection via sensor fusion of EEG, computer vision and IMU. | C++, OpenCV, Keras |
