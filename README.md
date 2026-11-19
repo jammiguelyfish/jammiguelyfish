@@ -7,6 +7,8 @@ I build practical AI applications including **LLM + RAG systems, multimodal assi
 
 > 📫 Open to opportunities — [mendoza.migz@gmail.com](mailto:mendoza.migz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/miguel-anthony-mendoza-326b64195/)
 
+![Profile views](https://komarev.com/ghpvc/?username=jammiguelyfish&label=Profile+views&color=0e75b6&style=flat)
+
 ---
 
 ## 🔧 Tech Stack
