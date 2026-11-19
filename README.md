@@ -71,7 +71,7 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 | [**PDF Q&A Bot**](https://github.com/jammiguelyfish/pdf-qna-bot) | Fully local RAG CLI that answers only from your PDFs, with source and page attribution. Hybrid BM25 + vector retrieval, with an **evaluation harness and published results**. | LangChain, Chroma, Mistral (Ollama) |
 | [**Repo Analyzer**](https://github.com/jammiguelyfish/repo-analyzer) | Paste any public GitHub URL and get an AI-generated developer onboarding guide. | Streamlit, Gemini API, GitHub REST API |
 | [**Inventory System**](https://github.com/jammiguelyfish/inventory-system) | Full-stack inventory manager with stock tracking, low-stock alerts and supplier management; Dockerized. | Spring Boot, PostgreSQL, JS |
-| [**Smart Helmet**](https://github.com/jammiguelyfish/smarthelmet) | Undergraduate thesis: drowsy-driving detection via sensor fusion of EEG, computer vision and IMU. | C++, OpenCV, Keras |
+| [**LLM evalwatch**](https://github.com/jammiguelyfish/llm-evalwatch) | Go service that tests LLMs against prompt suites, tracks every run and flags regressions (CI exit codes, Prometheus metrics, Grafana dashboard, Docker Compose). Works with Ollama and OpenAI-compatible APIs. | Go, Prometheus, Grafana, Docker |
 
 ---
 
