@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Miguel
 
 **Software Engineer / AI-ML Engineer based in Cebu, Philippines** with 3+ years of experience across AI/ML, full-stack SaaS and cloud deployment.
 BS Computer Engineering, *Magna Cum Laude* — University of San Carlos (DOST Merit Scholar).
@@ -11,7 +11,7 @@ I build practical AI applications including **LLM + RAG systems, multimodal assi
 
 ---
 
-## 🔧 Tech Stack
+# Tech Stack
 
 **Languages & Frameworks**
 
@@ -54,7 +54,7 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 
 ---
 
-## 💼 What I've been working on
+# What I've been working on
 
 - **AI assistants & RAG** — meeting-assistant bot (translation, summarization, emailed notes), multimodal assistant for report creation, and RAG integrated into existing products
 - **AI image analysis** — multiple classification projects using transfer learning
@@ -63,7 +63,7 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 
 ---
 
-## 🚀 Featured projects
+# Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -75,7 +75,7 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 
 ---
 
-## 🎓 Certifications
+# Certifications
 
 - Microsoft Certified: **Azure AI Fundamentals** (2025)
 - Microsoft Certified: **Azure Fundamentals** (2024)
@@ -85,7 +85,7 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 
 ---
 
-## 🌱 Currently
+# Currently
 
 - Building and polishing local-first AI projects
 - Looking for **AI/ML Engineer, Full Stack Engineer or Software Engineer** roles
