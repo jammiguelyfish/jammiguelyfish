@@ -49,8 +49,9 @@ I build practical AI applications including **LLM + RAG systems, multimodal assi
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
-LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hugging Face) · sentence-transformers · OpenCV · Keras / transfer learning (ResUNet, EfficientNet)
+RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hugging Face) · sentence-transformers · OpenCV · Keras / transfer learning (ResUNet, EfficientNet)
 
 ---
 
@@ -72,6 +73,7 @@ LangChain · RAG · ChromaDB · Qdrant · OpenAI & open-source LLMs (Ollama, Hug
 | [**Repo Analyzer**](https://github.com/jammiguelyfish/repo-analyzer) | Paste any public GitHub URL and get an AI-generated developer onboarding guide. | Streamlit, Gemini API, GitHub REST API |
 | [**Inventory System**](https://github.com/jammiguelyfish/inventory-system) | Full-stack inventory manager with stock tracking, low-stock alerts and supplier management; Dockerized. | Spring Boot, PostgreSQL, JS |
 | [**LLM evalwatch**](https://github.com/jammiguelyfish/llm-evalwatch) | Go service that tests LLMs against prompt suites, tracks every run and flags regressions (CI exit codes, Prometheus metrics, Grafana dashboard, Docker Compose). Works with Ollama and OpenAI-compatible APIs. | Go, Prometheus, Grafana, Docker |
+| [**Django FetchLens**](https://marketplace.visualstudio.com/items?itemName=jammiguelyfish.django-fetchlens) | VS Code extension, **published on the Marketplace**. Lists a Django project's real routes, jumps from a frontend `fetch`/`axios` call to the view that serves it, and warns about missing routes, wrong methods and missing slashes. Reads Django's own URL resolver; unit, helper and VS Code end-to-end tests with CI. [Source](https://github.com/jammiguelyfish/django-fetchlens) | TypeScript, Python, Django, VS Code API |
 
 ---
 
