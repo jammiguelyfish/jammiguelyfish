@@ -22,6 +22,7 @@ I build practical AI applications including **LLM + RAG systems, multimodal assi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
